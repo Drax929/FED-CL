@@ -13,6 +13,17 @@ Federated Learning (FL) enables collaborative training without sharing raw data.
 - **Adaptive Differential Privacy (DP)** to dynamically tune noise per client.  
 - **Homomorphic Encryption (HE)** for secure aggregation at the server.  
 
+Research Paper (Unpublished Draft)
+This project was accompanied by a research study titled "PrivCL: Privacy-Enhanced Federated Contrastive Learning with Adaptive Differential Privacy and Homomorphic Encryption."
+
+You can read the full draft here:
+👉 PrivCL_Research_Draft.pdf
+
+Note: This paper is an unpublished academic draft submitted as coursework but demonstrates the full methodology, experiments, and theoretical background behind the project.
+
+This notebook implements a research prototype of PrivCL, starting with federated CL on MNIST, then extending to graph, time-series, DP, and HE.
+
+
 This notebook implements a **research prototype** of PrivCL, starting with federated CL on MNIST, then extending to **graph, time-series, DP, and HE**.  
 
 ---
